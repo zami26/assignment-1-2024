@@ -2,7 +2,7 @@ body{
     font-family: "Merriweather", serif;
 }
 .header{
-     background-image:linear-gradient(to top,rgba(3, 3, 27, 0.5), rgba(20, 20, 71, 0.5)), url("../resources/Banner\ Image.png"); 
+     background-image:linear-gradient(to top,rgba(3, 3, 27, 0.5), rgba(20, 20, 71, 0.815)), url("../resources/Banner\ Image.png"); 
     background-repeat: no-repeat;
     background-size: 100%;
      color: white; 
@@ -11,4 +11,39 @@ body{
 }
 header h1{
     font-size: 50px;
+}
+
+.new-year-pic{
+    margin: 100px 0px;
+    text-align: center;
+}
+.red{
+    color: red;
+}
+main h1{
+    font-size: 38px;
+}
+
+.party{
+    margin: 5px 180px 50px 180px;
+    background-image:linear-gradient(to top,rgba(3, 3, 27, 0.5), rgba(0, 0, 0, 0.973)),url("../resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 10px;
+    height: 680px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.party-img{
+    height: 500px;
+}
+.join-btn{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 8px 13px;
+    border: none;
+    border-radius: 2px;
 }
