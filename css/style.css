@@ -138,3 +138,37 @@ border-radius: 10px;
     color: white;
     font-weight: 700;
 }
+
+.footer{
+    background-color: black;
+    color: white;
+}
+.footer-size{
+    margin: 0px 210px;
+    padding-top: 100px;
+
+
+}
+.contact{
+    display: flex;
+}
+.contact p{
+    margin: 0px 5px;
+}
+.footer-up{
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    text-align: center;
+    margin:0px 210px;
+}
+.icon img{
+    margin-left: 20px;
+}
+.footer-down{
+    display: flex;
+    justify-content: space-between;
+    margin:0px 210px;
+    padding-bottom: 100px;
+}
