@@ -97,3 +97,44 @@ border-radius: 5px;
     background-position: bottom, top right;
     padding-bottom: 100px;
 }
+.gift{    
+    margin: 5px 180px 50px 180px;
+}
+.gift p{
+    margin: 0px;
+}
+.gift h1{
+    margin: 0px;
+}
+.gift-pic{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.subscribe{    
+    margin: 5px 180px 50px 180px;
+    text-align: center;
+    background-color:rgb(250, 233, 236) ;
+    padding: 60px;
+border-radius: 10px;
+}
+
+.subscribe-input{
+    border: none;
+    padding: 12px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    width: 19%;
+    margin-right: 0px;
+}
+.subscribe-btn{
+    border: none;
+    padding: 12px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    width: 9%;
+    margin-left: 0px;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+}
